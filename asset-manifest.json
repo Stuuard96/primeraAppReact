@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/primeraAppReact/static/css/main.0b55af6c.css",
+    "main.js": "/primeraAppReact/static/js/main.bd9228d5.js",
+    "index.html": "/primeraAppReact/index.html",
+    "main.0b55af6c.css.map": "/primeraAppReact/static/css/main.0b55af6c.css.map",
+    "main.bd9228d5.js.map": "/primeraAppReact/static/js/main.bd9228d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b55af6c.css",
+    "static/js/main.bd9228d5.js"
+  ]
+}
